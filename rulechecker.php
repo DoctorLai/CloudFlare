@@ -1,3 +1,4 @@
+#!/usr/bin/php
 <?php   
   // https://helloacm.com/the-php-page-rule-checker-of-cloudflare/
   
