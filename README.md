@@ -1,5 +1,6 @@
 # CloudFlare Rule Checker
-https://helloacm.com/the-php-page-rule-checker-of-cloudflare/
+- https://utopian.io/utopian-io/@justyy/cloudflare-rule-checker
+- Author: [@justyy](https://steemit.com/@justyy)
 
 Examples:
 ```
@@ -12,4 +13,4 @@ Page Rules for https://justyy.com/top:
 **No Page Rules Match for https://codingforspeed.com/abc
 ```
 
-
+Blog post: https://helloacm.com/the-php-page-rule-checker-of-cloudflare/
