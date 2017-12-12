@@ -1,7 +1,4 @@
-# CloudFlare
-CloudFlare Utilities
-
-## CloudFlare Rule Checker
+# CloudFlare Rule Checker
 https://helloacm.com/the-php-page-rule-checker-of-cloudflare/
 
 Examples:
