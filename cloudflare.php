@@ -1,6 +1,5 @@
 <?php
-  // https://helloacm.com/the-php-page-rule-checker-of-cloudflare/
-  /* CloudFlare Access Tokens */
+    /* CloudFlare Access Tokens */
   $CLOUDFLARE_KEY = 'YOUR_CLOUDFLARE_APP_KEY';
   $CLOUDFLARE_EMAIL = 'YOUR_CLOUDFLARE_EMAIL';
   
