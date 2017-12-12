@@ -1,7 +1,5 @@
 #!/usr/bin/php
 <?php   
-  // https://helloacm.com/the-php-page-rule-checker-of-cloudflare/
-  
   function cloudflare_rulechecker($url, $key, $email, $data) {
     if (!$data) {
         throw new Exception("data null");
