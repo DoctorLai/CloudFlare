@@ -1,5 +1,5 @@
 # CloudFlare Rule Checker
-- https://utopian.io/utopian-io/@justyy/cloudflare-rule-checker
+- https://steemit.com/@justyy/cloudflare-rule-checker
 - Author: [@justyy](https://steemit.com/@justyy)
 
 Examples:
